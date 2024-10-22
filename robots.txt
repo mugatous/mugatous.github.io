@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mugatous.github.io/mugatous.mugatous
+Sitemap: https://mugatous.github.io/app/mugatous.mugatous
+Sitemap: https://mugatous.github.io/assets/mugatous.mugatous
+Sitemap: https://mugatous.github.io/css/mugatous.mugatous
+Sitemap: https://mugatous.github.io/includes/mugatous.mugatous
+Sitemap: https://mugatous.github.io/item/mugatous.mugatous
+Sitemap: https://mugatous.github.io/src/mugatous.mugatous
